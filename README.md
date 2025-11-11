@@ -8,3 +8,8 @@ https://drive.google.com/drive/folders/1JbU9gYc0SLoEcYPFy1fMXES_3Hmoh7R-?usp=dri
 ```text
 https://docs.google.com/document/d/1knfcSZGanAhN466r7uGVRC8DV9KuQeObSNtnFF_spzg/edit?usp=sharing
 ```
+# Logistic regression
+    https://youtu.be/KUSMDTBQzmU?si=ocS9B4IMrklkxwWP
+
+#  Gradient boost
+    https://youtu.be/XO2O5T7Vm-k?si=5eqF7ybhHXIsJxXl
