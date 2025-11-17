@@ -10,8 +10,9 @@ https://docs.google.com/document/d/1knfcSZGanAhN466r7uGVRC8DV9KuQeObSNtnFF_spzg/
 ```
 # Logistic regression
     https://youtu.be/KUSMDTBQzmU?si=ocS9B4IMrklkxwWP
-
-    https://youtu.be/K5XlM7yvddU?si=22VQZ3FgtuSz_JEO
+```text
+https://youtu.be/K5XlM7yvddU?si=22VQZ3FgtuSz_JEO
+```
 
 #  Gradient boost
     https://youtu.be/XO2O5T7Vm-k?si=5eqF7ybhHXIsJxXl
