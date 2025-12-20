@@ -1,4 +1,4 @@
-# CSE427-Machine-Learning-
+# CSE427-Machine-Learning
 
 # Course Content and Slide
 ```text
