@@ -12,3 +12,7 @@ https://docs.google.com/document/d/1knfcSZGanAhN466r7uGVRC8DV9KuQeObSNtnFF_spzg/
 ```text
 https://www.youtube.com/playlist?list=PL5b6Wl2Equ1a5QeBtgfFwO4-eVLe5Dq7H
 ```
+# CNN (RZR)
+```text
+https://youtu.be/9UT06KQyp7k?si=2-JB0MgVtrdjanBi
+```
